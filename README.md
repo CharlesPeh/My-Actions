@@ -19,7 +19,7 @@
 4. 双击右上角自己仓库Star触发，如有不使用项目请[禁用部分项目](https://cdn.jsdelivr.net/gh/BlueskyClouds/BlueskyClouds.github.io/2020/10/19/img/2020-10-19.jpg)
 5. **必须** - 请随便找个文件(例如`README.md`)，加个空格提交一下，否则可能会出现无法定时执行的问题
 6. 由于规则更新,可能会Fork后会默认禁用,请手动点击Actions 选择要签到的项目 `enable workflows`激活
-7. [定时执行](#定时执行)
+7. [定时执行](#定时执行) 
 
 # 定时执行
 1. 支持手动执行，具体在Actions中选中要执行的Workflows后再在右侧可以看到Run workflow，点击即可运行此workflow。
